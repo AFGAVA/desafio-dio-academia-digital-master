@@ -1,0 +1,1 @@
+Projeto de resposta ao desafio do curso "Conhecendo Spring Data JPA na prática com Java" da DIO (https://www.dio.me/). O projeto original é de autoria da professora Camila Cavalcante e pode ser encontrado neste link: https://github.com/cami-la/academia-digital
